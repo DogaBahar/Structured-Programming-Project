@@ -1,0 +1,9 @@
+BLM3051 Data_Communication 3 0 100 1
+BLM2512 Data_Structures_and_Algorithms 4 0 100 2
+BLM2611 Logic_Circuits 4 0 100 3
+BLM2031 Structured_Programming 4 0 100 4
+BLM2042 System_Analysis_and_Design 2 0 100 5
+BLM2521 Discrete_Mathematics 3 0 100 6
+BLM3021 Algorithm_Analysis 3 0 100 7
+BLM3010 Computer_Projects 3 0 100 8
+BLM3722 Software_Engineering 3 0 100 9
